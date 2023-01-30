@@ -1,0 +1,9 @@
++----------+
+| emp_name |
++----------+
+| albin    |
+| dennis   |
+| eric     |
+| lara     |
+| brian    |
++----------+
